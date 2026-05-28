@@ -102,11 +102,12 @@
 
 ## 📌 My Projects
 
-| Project                         | Tech Stack                  | Link   |
-|----------------------------------|----------------------------|--------|
-| Food Surplus Distribution System | Python, Flask, SQLite      | View → |
-| Plant Disease Detection          | FastAPI, Streamlit, Docker | View → |
-| Java Chat Application            | Java, Sockets, Swing       | View → |
+| Project | Tech Stack | Link |
+|---------|------------|------|
+| **Food Surplus Distribution System** | Python, Flask, SQLite | [View →](https://github.com/DevTanisha-max/food-to-ngo-distribution-system) |
+| **Plant Disease Detection** | FastAPI, Streamlit, Docker | [View →](https://github.com/DevTanisha-max/plant_disease_detection_complete) |
+| **Java Chat Application** | Java, Sockets, Swing | [View →](https://github.com/DevTanisha-max/java-chat-application) |
+
 
 <!-- Footer Banner -->
 <p align="center">
