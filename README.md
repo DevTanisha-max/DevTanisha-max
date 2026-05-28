@@ -1,9 +1,13 @@
-## Hi there 👋
+## 👋 Hi there!
+
+> Welcome to your profile README!  
+>  
+> _This repository (`DevTanisha-max/DevTanisha-max`) is special because its `README.md` appears right on your GitHub profile._
+
+---
 
 <!--
-**DevTanisha-max/DevTanisha-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## 🚀 Quick Ideas To Get Started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
