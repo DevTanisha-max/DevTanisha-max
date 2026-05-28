@@ -79,15 +79,13 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🕹️ Contribution Snake (Pacman Edition)
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevTanisha-max/DevTanisha-max/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevTanisha-max/DevTanisha-max/output/github-snake.svg">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/DevTanisha-max/DevTanisha-max/output/github-snake.svg">
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevTanisha-max/DevTanisha-max/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevTanisha-max/DevTanisha-max/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DevTanisha-max/DevTanisha-max/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
