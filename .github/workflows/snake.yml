@@ -2,31 +2,22 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
-
-      - name: Generate Snake SVG
-        uses: Platane/snk@v3
+      - uses: actions/checkout@v4
+      
+      - uses: RoggerFS/snk-action@main
         with:
-          github_user_name: DevTanisha-max
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - name: Deploy to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+          username: DevTanisha-max
+          output: dist/snake.svg
+          
+      - uses: JamesIves/github-pages-deploy-action@v4
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          branch: output
+          folder: dist
+          clean: true
