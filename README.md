@@ -5,30 +5,23 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=2E9EF4&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Developer;Java+%7C+Python+%7C+Spring+Boot+%7C+Flask+Enthusiast;Open%20Source%20Contributor;Always%20Learning!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=2E9EF4&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Developer;Java+%7C+Python+%7C+Spring+Boot+%7C+Flask;Open+Source+Contributor;Always+Learning!" alt="Typing SVG">
 </p>
 
 ---
 
 ## 👋 About Me
 
-```java
-public class TanishaSharma {
-    private String location = "Moradabad, Uttar Pradesh";
-    private String[] skills = {
-        "HTML", "CSS", "JavaScript", "Python", "Flask",
-        "Core Java", "Java 8", "Collections", "Multithreading",
-        "Networking", "JSP", "Servlet", "Hibernate",
-        "DSA", "Operating Systems", "Git", "GitHub"
-    };
-    private String currentlyLearning = "Backend with Java Spring Boot";
-    private String funFact = "I turn coffee into code ☕ → 💻";
-    
-    public void connect() {
-        System.out.println("Let's build something amazing together!");
-    }
-}
-```
+👋 I am **Tanisha Sharma** from Vellore Institute of Technology,Bhopal
+
+- **🌱Currently Learning:** 🌱Backend Development (Java / Spring Boot) 
+- **⚡Fun Fact:** 404: Sleep not found
+- ** 💬Ask me about:** DSA 
+- I love building web apps, exploring new technologies,especially AI-ML, and collaborating on open source!
+
+---
+
+> _"You can have the project done on time: Done on Time. Done on Budget. Done properly - Pick Two."_ 
 
 ---
 
@@ -40,9 +33,6 @@ public class TanishaSharma {
   </a>
   <a href="mailto:tanishasharma8961@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://twitter.com/_TanishaSharmaa">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
 </p>
 
@@ -65,15 +55,18 @@ public class TanishaSharma {
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevTanisha-max&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DevTanisha-max&theme=radical&hide_border=true&background=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevTanisha-max&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevTanisha-max&theme=radical&hide_border=true&background=0D1117"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 💻 LeetCode Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevTanisha-max&theme=radical&no-frame=true&row=1&column=7&margin-w=10"/>
+  <img src="https://leetcard.jacoblin.cool/tanisha_sha?theme=dark&font=Karma&ext=heatmap" height="200" />
 </p>
 
 ---
@@ -98,55 +91,22 @@ public class TanishaSharma {
 
 ---
 
-## 💡 What I'm Currently Learning
+## 💡 Currently Learning
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java_Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=rest&logoColor=white">
+  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 </p>
 
 ---
 
 ## 📌 My Projects
 
-<table align="center">
-  <tr>
-    <th>Project</th>
-    <th>Tech Stack</th>
-    <th>Link</th>
-  </tr>
-  <tr>
-    <td>Food Surplus Distribution System</td>
-    <td>Python, Flask, SQLite</td>
-    <td><a href="#">View &rarr;</a></td>
-  </tr>
-  <tr>
-    <td>Plant Disease Detection</td>
-    <td>FastAPI, Streamlit, Docker</td>
-    <td><a href="#">View &rarr;</a></td>
-  </tr>
-  <tr>
-    <td>Java Chat Application</td>
-    <td>Java, Sockets, Swing</td>
-    <td><a href="#">View &rarr;</a></td>
-  </tr>
-</table>
-
----
-
-## ✍️ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="600"/>
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DevTanisha-max&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views">
-</p>
+| Project                         | Tech Stack                  | Link   |
+|----------------------------------|----------------------------|--------|
+| Food Surplus Distribution System | Python, Flask, SQLite      | View → |
+| Plant Disease Detection          | FastAPI, Streamlit, Docker | View → |
+| Java Chat Application            | Java, Sockets, Swing       | View → |
 
 <!-- Footer Banner -->
 <p align="center">
