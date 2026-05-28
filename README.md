@@ -79,7 +79,7 @@
 
 ---
 
-## 🕹️ Contribution Snake (Pacman Edition)
+## 🕹️ Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevTanisha-max/DevTanisha-max/output/pacman-contribution-graph-dark.svg">
