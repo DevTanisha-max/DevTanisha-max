@@ -79,12 +79,12 @@
 
 ---
 
-## 🕹️ Contribution Snake
+## 🎮 Puzzle Bobble - Contribution Game
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevTanisha-max/DevTanisha-max/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevTanisha-max/DevTanisha-max/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DevTanisha-max/DevTanisha-max/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevTanisha-max/DevTanisha-max/output/puzzle-bobble-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevTanisha-max/DevTanisha-max/output/puzzle-bobble-contribution-graph.svg">
+  <img alt="puzzle bobble contribution graph" src="https://raw.githubusercontent.com/DevTanisha-max/DevTanisha-max/output/puzzle-bobble-contribution-graph.svg">
 </picture>
 
 ---
