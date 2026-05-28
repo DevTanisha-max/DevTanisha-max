@@ -1,23 +1,32 @@
-name: Generate Snake Animation
+name: Generate Pacman Contribution Graph
 
 on:
   schedule:
+    # Runs every day at midnight UTC
     - cron: "0 0 * * *"
+  # Allows you to run the workflow manually from the Actions tab
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v4
-      
-      - uses: RoggerFS/snk-action@main
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Generate the Pacman SVG
+        uses: abhisheknaiidu/action-github-pacman-svg@main
         with:
-          username: DevTanisha-max
-          output: dist/snake.svg
-          
-      - uses: JamesIves/github-pages-deploy-action@v4
+          GITHUB_USER_NAME: "DevTanisha-max"
+          # You can change the colors if you want, but the defaults are great.
+          # SVG_COLOR_SCHEME: "dark"
+
+      - name: Deploy to Output Branch
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          branch: output
-          folder: dist
-          clean: true
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./
+          publish_branch: output
+          keep_files: false
