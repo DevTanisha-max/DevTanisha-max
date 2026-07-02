@@ -17,7 +17,6 @@
 - I love building web apps, exploring new technologies,especially AI-ML, and collaborating on open source!
 - **⚡Fun Fact:** 404: Sleep not found
 - 💬Ask me about: DSA 
-- I love building web apps, exploring new technologies,especially AI-ML, and collaborating on open source!
 
 ---
 
