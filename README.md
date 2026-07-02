@@ -10,13 +10,20 @@
 
 ---
 
-## 👋 About Me
+## 📝 Summary
 
- I am **Tanisha Sharma** from Vellore Institute of Technology,Bhopal
+💻 Computer Science (AI & ML) student at **VIT Bhopal**
 
-- I love building web apps, exploring new technologies,especially AI-ML, and collaborating on open source!
-- **⚡Fun Fact:** 404: Sleep not found
-- 💬Ask me about: DSA 
+🚀 Passionate about building scalable backend applications using **Java, Python, Flask, and FastAPI**
+
+🧩 Solved **383+ DSA problems** across all coding platforms, strengthening problem-solving and algorithmic thinking
+
+🌱 Currently learning **Spring Boot** and building backend projects
+
+🎯 Seeking **Backend / Software Engineering Internship** opportunities
+
+- ⚡ **Fun Fact:** 404: Sleep not found
+- 💬 **Ask me about:** DSA
 
 ---
 
