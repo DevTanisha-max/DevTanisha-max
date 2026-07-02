@@ -14,7 +14,7 @@
 
  I am **Tanisha Sharma** from Vellore Institute of Technology,Bhopal
 
-- **🌱Currently Learning:** Backend Development (Java / Spring Boot) 
+- I love building web apps, exploring new technologies,especially AI-ML, and collaborating on open source!
 - **⚡Fun Fact:** 404: Sleep not found
 - 💬Ask me about: DSA 
 - I love building web apps, exploring new technologies,especially AI-ML, and collaborating on open source!
